@@ -1,4 +1,4 @@
-
+/*
 function Stopwatch {
     let startTime, endTime, running, duration
 
@@ -30,3 +30,5 @@ function Stopwatch {
     };
 
     Object.define p
+
+    */

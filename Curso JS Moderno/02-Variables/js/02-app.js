@@ -1,0 +1,2 @@
+let producto = "tablet"
+
